@@ -15,6 +15,7 @@ pydantic-settings>=2.2.0
 python-multipart>=0.0.9
 openpyxl>=3.1.2
 pyarrow>=15.0.0
+
 pytest>=8.0.0
 python-dotenv>=1.0.1
 aiofiles>=23.2.1
